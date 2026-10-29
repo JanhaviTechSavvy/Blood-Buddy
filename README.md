@@ -8,7 +8,8 @@ BloodBuddy is a powerful **location-based blood donor finder** that helps users 
 
 ## 📚 Table of Contents  
 - [🚀 Features](#-features)  
-- [🌍 Live Demo](#-live-demo)  
+- [🌍 Live Demo](#-live-demo)
+- [👥 Project Team & Contributions](#-project-team--contributions)
 - [📸 Screenshots](#-screenshots)  
 - [📁 Project Structure](#-project-structure)  
 - [⚙️ Backend Setup](#️-backend-setup-fastapi)  
@@ -37,6 +38,20 @@ BloodBuddy is a powerful **location-based blood donor finder** that helps users 
 
 ## 🌍 Live Demo  
 ### 🔗 **https://www.bloodbuddy.xyz/**  
+
+---
+
+## 👥 Project Team & Contributions
+
+BloodBuddy is a collaborative engineering project developed by a team of five members.
+
+| Team Member | Contributions |
+|---|---|
+| **Amit Yadav** | Frontend development and frontend-backend integration. |
+| **Janhavi Uchitkar** | Backend API development, data cleaning, and database operations. |
+| **Anurag Rokade** | Backend development and application functionality. |
+| **Palash Dhande** | Frontend development and UI implementation. |
+| **Payal Sobhani** | Project documentation, report preparation, and marketing. |
 
 ---
 
